@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p{
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 200px;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: #EAF6F6;
+  margin-bottom: 30px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.subtitle{
+  font-size: 2rem;
+}
+
+.aboutme{
+  margin-left: 30%;
+  margin-right: 30%;
+  color: #40514E;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 1%;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #E1BC91;
+  border-width: 7px;
+  margin: 20px auto;
+}
+
+a{
+  color: #40514E;
+}
+
+h4{
+  color: #11999E;
+}
+
+.outro{
+  letter-spacing: 1px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.BUTTON_XGP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 15px;
+   font-weight: 700;
+   padding: 12px;
+   background-color: #FFFFFF;
+   border: solid #000000 3px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 30px;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
+.BUTTON_XGP:hover {
+   background: #000000;
+   border: solid #FFFFFF 3px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+   color: #FFFFFF;
+}
+
+.footer-link{
+  padding: 10px;
+}
+
+.copyright{
+  margin: 0;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
